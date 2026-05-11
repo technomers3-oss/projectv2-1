@@ -1,5 +1,3 @@
-# ☁️ Cloud Computing Lab Manual
-
 
 ## Lab 1 — EC2 Instance Launch & Connect
 
