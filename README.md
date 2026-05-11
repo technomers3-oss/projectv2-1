@@ -1,17 +1,5 @@
 # ☁️ Cloud Computing Lab Manual
 
-> AWS Lab Experiments: EC2, EBS, EFS, and S3
-
----
-
-## Table of Contents
-
-- [Lab 1 — EC2 Instance Launch & Connect](#lab-1--ec2-instance-launch--connect)
-- [Lab 2 — EBS Volume Management](#lab-2--ebs-volume-management)
-- [Lab 3 — EFS (Elastic File System)](#lab-3--efs-elastic-file-system)
-- [Lab 4 — Amazon S3](#lab-4--amazon-s3)
-
----
 
 ## Lab 1 — EC2 Instance Launch & Connect
 
