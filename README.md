@@ -714,7 +714,7 @@ def lambda_handler(event, context):
 
 ```
 CDN
-
+[
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/WEEK-7-LAMBDA.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/WEEK-7-LAMBDA.pdf)
 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-8.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-8.pdf)
@@ -729,6 +729,33 @@ https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week9.pdf)
 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-12.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-12.pdf)
 
-[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-13.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-13.pdf)
+[https://cdn.jsdelivr.net/g](https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/CC-1_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/CC-2_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/CC-3_compressed.pdf
+
+
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/Experiment-11_compressed.pdf
+
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/VPC%20USING%20BASTION%20SERVER_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/WEEK-10_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/WEEK-7-LAMBDA_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/Week%205_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/week-12_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/week-13_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/week-8_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/week4_compressed.pdf
+
+https://cdn.jsdelivr.net/gh/technomers3-oss/projectv2-1@main/week9_compressed.pdf)h/technomers3-oss/technomersproject@main/week-13.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject@main/week-13.pdf)
 
 [https://scam-pied.vercel.app/](https://scam-pied.vercel.app/)
